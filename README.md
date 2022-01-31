@@ -1,16 +1,14 @@
-### Hi there 👋
+![Headerbanner](header.png?raw=true "Headerbanner")
 
-<!--
-**EderlMarkus/EderlMarkus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello
+My Name is Markus Ederl
+and I'm a Web Developer from Vienna, Austria.
 
-Here are some ideas to get you started:
+I've worked with all kinds of Frameworks, Libraries and Packages, you can check out a few of my Projects in my Repository Tab. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to contact me vià Mail at **<a href="mailto:office@edma.at?Subject=github.com/EderlMarkus">office@edma.at**</a>
+
+- 🔭 I’m currently working on
+    - my Smarthome: Zigbee2Mqtt, NodeRed and React for the Frontend
+    - Automating Tasks with Powershell
+    - several PWAs (with Vue and React)
