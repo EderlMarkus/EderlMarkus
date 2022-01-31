@@ -7,12 +7,16 @@ and I'm a Web Developer from Vienna, Austria.
 
 I've worked with all kinds of Frameworks, Libraries and Packages, you can check out a few of my Projects in my Repository Tab.
 
-Feel free to contact me vià Mail at **<a href="mailto:office@edma.at?Subject=github.com/EderlMarkus">office@edma.at**</a>
+Feel free to contact me: **<a href="mailto:office@edma.at?Subject=github.com/EderlMarkus">office@edma.at**</a>
 
 - 🔭 I’m currently working on
-  - my Smarthome: Zigbee2Mqtt, NodeRed and React for the Frontend
-  - Automating Tasks with Powershell
+
+  - my Smarthome: Zigbee2MQTT, NodeRed and React for the Frontend
+  - automating Tasks with Powershell
   - several PWAs (with Vue and React)
+
+- ⚡ Fun facts:
+  - Besides Web-Development, I strongly believe in Automation, and I've built several API-Bots for helping with daily tasks, like Jira/Confluence-Updates, Slack Comments, Data-Management, etc.
 
 ## Stuff I worked with
 
@@ -29,6 +33,7 @@ Feel free to contact me vià Mail at **<a href="mailto:office@edma.at?Subject=gi
 </p>
 
 ## Tools of Choice
+
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="angular" width="auto" height="40"/> </a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.shopify.com/s/files/1/0057/5668/2355/files/Postman-logo-orange-2021_1155x.png?v=1637252529" alt="angular" width="auto" height="40"/> </a>
 <a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/2560px-Slack_Technologies_Logo.svg.png" alt="angular" width="auto" height="40"/> </a>
