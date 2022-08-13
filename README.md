@@ -9,16 +9,24 @@ I've worked with all kinds of Frameworks, Libraries and Packages, you can check 
 
 Feel free to contact me: **<a href="mailto:office@edma.at?Subject=github.com/EderlMarkus">office@edma.at**</a>
 
-- 🔭 I’m currently working on
+<h3>🔭 I’m currently working on</h3>
 
-  - my Smarthome: Zigbee2MQTT, NodeRed and React for the Frontend
+  - my Smarthome: 
+    - Hardware: Raspberry Pi
+    - Backend: Zigbee2MQTT, NodeRed
+    - Frontend: React (w/ Redux, SASS)
   - automating Tasks with Powershell
-  - several PWAs (with Vue and React)
+    - Atlassian API
+    - Automated Outlook-Management
+  - several PWAs
+    - playing around with Vue/React
 
-- ⚡ Fun facts:
-  - Besides Web-Development, I strongly believe in Automation, and I've built several API-Bots for helping with daily tasks, like Jira/Confluence-Updates, Slack Comments, Data-Management, etc.
+<h3>⚡ Fun facts:</h3>
+<p>Besides Web-Development, I'm doing a lot of <b>Requirement Engineering</b> as well as <b>Software-Projectmanagement</b>.</p>
+<p>I strongly believe in the <b>"singe-source-of-truth"-principle</b>, that all information should only be given to the System ONCE and every Dashboard, Memo, etc should be feeded by that source.</p>
+<p>To achieve this in my every-day-life, I've built several <b>API-Bots</b> for helping with daily tasks, like Jira/Confluence-Updates, Slack Comments, Data-Management, etc. So far it turned out pretty good, <b>boosting efficency</b> and <b>dropping error-rates</b>.</p>
 
-## Stuff I worked with
+<h3>Stuff I worked with</h3>
 
 <p align="left">
 <a href="https://developer.mozilla.org/de/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2000px-Unofficial_JavaScript_logo_2.svg.png" alt="jslogo" width="auto" height="40"/> </a>
