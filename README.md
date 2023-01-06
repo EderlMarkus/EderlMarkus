@@ -13,7 +13,7 @@ Feel free to contact me: **<a href="mailto:office@edma.at?Subject=github.com/Ede
 
   - my Smarthome: 
     - Hardware: Raspberry Pi
-    - Backend: Zigbee2MQTT, NodeRed
+    - Backend: Zigbee2MQTT, NodeRed, PHP (Laravel)
     - Frontend: React (w/ Redux, SASS)
   - automating Tasks with Powershell
     - Atlassian API
