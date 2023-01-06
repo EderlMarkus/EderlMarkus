@@ -25,6 +25,7 @@ Feel free to contact me: **<a href="mailto:office@edma.at?Subject=github.com/Ede
 <p>Besides Web-Development, I'm doing a lot of <b>Requirement Engineering</b> as well as <b>Software-Projectmanagement</b>.</p>
 <p>I strongly believe in the <b>"singe-source-of-truth"-principle</b>, that all information should only be given to the System ONCE and every Dashboard, Memo, etc should be feeded by that source.</p>
 <p>To achieve this in my every-day-life, I've built several <b>API-Bots</b> for helping with daily tasks, like Jira/Confluence-Updates, Slack Comments, Data-Management, etc. So far it turned out pretty good, <b>boosting efficency</b> and <b>dropping error-rates</b>.</p>
+<p> I also believe, that <b>Kanban</b> is often overlooked, the majority seems to be focused on Scrum, and although I think Scrum is great for Software Development, I often times think, that Kanban would be way easier to implement, especially in business cultures that are trying to adapt to a new digital world, while still achieving remarkable results.</p>
 
 <h3>Stuff I worked with</h3>
 
