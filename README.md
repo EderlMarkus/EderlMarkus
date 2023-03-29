@@ -14,12 +14,12 @@ Feel free to contact me: **<a href="mailto:office@edma.at?Subject=github.com/Ede
   - my Smarthome: 
     - Hardware: Raspberry Pi
     - Backend: Zigbee2MQTT, NodeRed, PHP (Laravel)
-    - Frontend: React (w/ Redux, SASS)
+    - Frontend: Angular (w/ RxJS, SASS)
   - automating Tasks with Powershell
     - Atlassian API
     - Automated Outlook-Management
   - several PWAs
-    - playing around with Vue/React
+    - playing around with Angular
 
 <h3>⚡ Fun facts:</h3>
 <p>Besides Web-Development, I'm doing a lot of <b>Requirement Engineering</b> as well as <b>Software-Projectmanagement</b>.</p>
